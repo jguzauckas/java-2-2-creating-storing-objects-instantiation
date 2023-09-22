@@ -1,20 +1,8 @@
 # Basics Check
 
-Using the starting sample code in the `Check.java` file, try to complete each line by casting, rounding, or using our integer values:
+Can you fix each of the lines in the `Check.java` file to correctly assign a `Person` object to a variable?
 
----
-
-Lines 3-5 - Cast the value being assigned so that it will be the correct type for the variable it is being assigned to.
-
-Lines 6-7 - Apply our rounding techniques so that the values are rounded correctly when cast.
-
-Line 8 - Assign the largest value an integer can hold.
-
-Line 9 - Assign the smallest value an integer can hold.
-
-Line 10 - Assign a negative value due to a calculation that results in integer overflow.
-
----
+Can you modify the `person4` assignment to give the `Person` no age or student status?
 
 Your goal is the eliminate the errors (highlighted in red) and instead ensure there is only warnings (highlighted in yellow), as that means there are no data type issues, just issues with the variables not being used further.
 

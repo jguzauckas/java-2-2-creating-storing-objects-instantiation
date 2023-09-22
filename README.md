@@ -11,7 +11,7 @@ This section covers the following material:
 - Parameters and Parameter Lists
 - Signatures
 - Overloading
-- `new` Keyword
+- Creating Objects
 - `null` Keyword
 
 To use this repository, start with the `notes.md` document, referencing the various `.java` documents as you go to see the examples in action.

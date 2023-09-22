@@ -1,6 +1,6 @@
 # Initial Try
 
-Can you fix each of the lines in the `Try.java` file to correctly assign a `Person` variable to a person object?
+Can you fix each of the lines in the `Try.java` file to correctly assign a `Person` object to a variable?
 
 Can you modify the `person4` assignment to give the `Person` an age of 16?
 
