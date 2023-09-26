@@ -1,10 +1,3 @@
-- Signatures
-- Parameters
-- Overloading
-- Call by Value
-- `new` Keyword
-- `null` Keyword
-
 # Creating and Storing Objects (Instantiation)
 
 With the basic concept of a class as a blueprint/framework/mold down, we will be learning how to use existing classes to create objects. To do that, we first have to explore more about how a specific piece of classes are written, called **constructors**. Constructors are the instructions on how to build an object based on the class, while the other pieces of a class describe how to use an object once it's been created. For our reference, here is the `Person.java` file that outlines a basic blueprint for a `Person`:
